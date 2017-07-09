@@ -1,4 +1,9 @@
 # arma_squad
-Arma3 Squad definition for www.gamesquare.de.
+Arma3 Squad definition für www.gamesquare.de.
 
-Files created at: https://armasquads.de/
+Grundversion der XML Datei angelegt unter: https://armasquads.de/
+
+## Squad.xml verwenden
+Im Spielerprofil muss man als Squad Url folgende eintragen:
+- https://raw.githubusercontent.com/gamesquare/arma_squad/master/squad.xml
+
