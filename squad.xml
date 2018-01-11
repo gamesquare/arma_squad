@@ -1,45 +1,45 @@
-<?xml version="1.0"?>
+<?XML VERSION="1.0"?>
 <!DOCTYPE squad SYSTEM "squad.dtd">
 <squad nick="[GQ]">
     <name>Gamesquare.de</name>
-    <email>N/A</email>
+    <email></email>
     <web>http://www.gamesquare.de</web>
     <picture>gq_logo.paa</picture>
-    <title>N/A</title>
+    <title></title>
     <member id="76561198059514972" nick="[GQ]Gen.GUNHED">
-        <name>N/A</name>
-        <email>N/A</email>
-        <icq>N/A</icq>
+        <name>[GQ]Gen.GUNHED</name>
+        <email></email>
+        <icq></icq>
         <remark>Leader of the pack</remark>
     </member>
     <member id="76561198043108781" nick="[GQ]Commander">
-        <name>N/A</name>
-        <email>N/A</email>
-        <icq>N/A</icq>
+        <name>[GQ]Commander</name>
+        <email></email>
+        <icq></icq>
         <remark>2IC</remark>
     </member>
     <member id="76561198283582163" nick="[GQ]Malitia">
-        <name>N/A</name>
-        <email>N/A</email>
-        <icq>N/A</icq>
-        <remark>N/A</remark>
+        <name>[GQ]Malitia</name>
+        <email></email>
+        <icq></icq>
+        <remark></remark>
     </member>
     <member id="76561198283581639" nick="[GQ]MadCaz">
-        <name>N/A</name>
-        <email>N/A</email>
-        <icq>N/A</icq>
-        <remark>N/A</remark>
+        <name>[GQ]MadCaz</name>
+        <email></email>
+        <icq></icq>
+        <remark></remark>
     </member>
     <member id="76561198128252537" nick="[GQ]Deltex">
-        <name>N/A</name>
-        <email>N/A</email>
-        <icq>N/A</icq>
-        <remark>N/A</remark>
+        <name>[GQ]Deltex</name>
+        <email></email>
+        <icq></icq>
+        <remark></remark>
     </member>
     <member id="76561198043094808" nick="NeuroDad">
-        <name>N/A</name>
-        <email>N/A</email>
-        <icq>N/A</icq>
-        <remark>N/A</remark>
+        <name>NeuroDad</name>
+        <email></email>
+        <icq></icq>
+        <remark></remark>
     </member>
 </squad>
